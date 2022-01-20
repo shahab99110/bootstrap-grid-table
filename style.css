@@ -1,0 +1,38 @@
+body{
+    margin: 30px;
+}
+
+.container {
+  outline: solid 2px;
+}
+
+.row {
+  outline: solid 1px;
+}
+
+.col, .col-2, .col-6, .col-12 {
+  outline: solid 1px;
+  padding: 0%;
+}
+
+.col-12{
+    background-color: blue;
+}
+
+.c2{
+    background-color: burlywood;
+}
+
+.r2{
+    background-color: brown;
+}
+
+
+.sr{
+    margin: 0%;
+}
+
+.sph{
+    height: 48px;
+    background-color: cornsilk;
+}
