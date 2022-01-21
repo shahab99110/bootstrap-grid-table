@@ -19,20 +19,20 @@ body{
     background-color: blue;
 }
 
-.c2{
+.coloumn-2-bg-color{
     background-color: burlywood;
 }
 
-.r2{
+.row-2-bg-color{
     background-color: brown;
 }
 
 
-.sr{
+.remove-margin{
     margin: 0%;
 }
 
-.sph{
+.special-height{
     height: 48px;
     background-color: cornsilk;
 }
